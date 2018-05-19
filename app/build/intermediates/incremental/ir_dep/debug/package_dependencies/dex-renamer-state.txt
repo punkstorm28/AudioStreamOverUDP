@@ -1,0 +1,4 @@
+#Sat May 19 09:44:56 IST 2018
+base.0=/Users/vyomkeshjha/AndroidStudioProjects/UDPChat1/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
